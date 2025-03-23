@@ -1,5 +1,4 @@
 # Conecta-4
-## CONECTA 4
 ### Publicado el 03/01/22
 
 Crea el juego conecta cuatro. Tienes un ejemplo parecido [aquí](https://solitariosonline.es/conecta-4). 
